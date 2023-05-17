@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [積読リスト](./book_list.md)
