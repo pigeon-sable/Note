@@ -1,0 +1,6 @@
+[book]
+authors = ["Kobayashi123"]
+language = "en"
+multilingual = false
+src = "src"
+title = "pigeon-sable note"
